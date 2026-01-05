@@ -1,0 +1,46 @@
+madcat.github.io/
+│   index.html
+│   style.css
+│   README.md
+│
+├── pages/
+│     novice.html
+│     power.html
+│     tools.html
+│     privacy.html
+│     about.html
+│
+├── css/
+│     base.css
+│     theme.css
+│     layout.css
+│
+├── img/
+│     logo.png
+│     hero.png
+│     icons/
+│         nav.svg
+│         grid.svg
+│         arrow.svg
+│
+├── modules/
+│     definitions/
+│         novice.txt
+│         power.txt
+│         tools.txt
+│     workflows/
+│         builder-log.txt
+│         masterusb.txt
+│         privacy-toolkit.txt
+│
+├── scripts/
+│     theme.js
+│     nav.js
+│
+└── assets/
+      fonts/
+          inter.woff2
+          inter-bold.woff2
+      downloads/
+          templates/
+          guides/
