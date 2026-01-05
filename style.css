@@ -1,0 +1,22 @@
+:root {
+    --charcoal: #1A1A1A;
+    --offwhite: #F2F2F2;   /* original font color */
+    --accent-red: #7A0000;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: var(--charcoal);
+    color: var(--offwhite);
+    font-family: Arial, sans-serif;
+}
+
+header {
+    padding: 40px;
+    text-align: center;
+}
+
+h1, h2, p {
+    margin: 0 0 20px 0;
+}
